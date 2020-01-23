@@ -1,0 +1,13 @@
+.home-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  z-index: 1;
+}
+.home-container-add .link {
+  color: blue;
+}
+.home-container-link {
+  color: #000000;
+  opacity: 0.5;
+}

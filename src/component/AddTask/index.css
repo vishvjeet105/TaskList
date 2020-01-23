@@ -1,0 +1,8 @@
+.addtask-component {
+  display: flex;
+  flex-direction: column;
+}
+.addtask-container {
+  display: flex;
+  flex-direction: column;
+}
